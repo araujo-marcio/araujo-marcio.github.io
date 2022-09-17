@@ -1,0 +1,61 @@
+body {
+  background-color:rgb(1, 22, 39);
+}
+
+header {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#sobre-mim {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+strong , em{
+  font-family: monospace;
+  color: rgb(253, 255, 252);
+}
+
+.hard01 {
+  font-size: 19pt;
+  color: rgb(46, 196, 182);
+}
+
+.hard02 {
+  font-size: 18pt;
+  color: rgb(46, 196, 182);
+}
+
+.hard03 {
+  font-size: 17pt;
+  color: rgb(46, 196, 182);
+}
+
+.hard04 {
+  font-size: 16pt;
+  color: rgb(46, 196, 182);
+}
+
+.hard05 {
+  font-size: 15pt;
+  color: rgb(46, 196, 182);
+}
+
+.hard06 {
+  font-size: 14pt;
+  color: rgb(46, 196, 182);
+}
+
+.hard07 {
+  font-size: 13pt;
+  color: rgb(46, 196, 182);
+}
+
+.hard08 {
+  font-size: 12pt;
+  color: rgb(46, 196, 182);
+}
+
+.hard09 {
+  font-size: 11pt;
+  color: rgb(46, 196, 182);
+}
